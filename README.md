@@ -2,7 +2,7 @@
 
 👨‍💻 **Software Engineer | Full-Stack Developer**
 
-Developing innovative **OTT and Content Delivery solutions** using **LightningJS**, **RDK**, **Java**, **Flask**, and **AWS**.
+Developing innovative **solutions** using **LightningJS**, **RDK**, **Java**, **Flask**, and **AWS**.
 
 ### 🛠️ Technologies & Tools
 - **Front-end**: LightningJS, SolidJS, ReactJS, NextJS, AngularJS
