@@ -2,8 +2,6 @@
 
 👨‍💻 **Software Engineer | Full-Stack Developer**
 
-Developing innovative **solutions** using **LightningJS**, **RDK**, **Java**, **Flask**, and **AWS**.
-
 ### 🛠️ Technologies & Tools
 - **Front-end**: LightningJS, SolidJS, ReactJS, NextJS, AngularJS
 - **Back-end**: Java, Flask, Express.js, Django
