@@ -23,6 +23,6 @@ I am always seeking new opportunities to learn and grow both personally and prof
 
 Feel free to reach out and let's explore how we can work together to create impactful solutions that drive growth and success.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kanishk/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kanishks22/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kanishk&show_icons=true&theme=radical)
